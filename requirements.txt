@@ -1,0 +1,4 @@
+pygame==1.9.6
+PyOpenGL
+pillow==6.2.2
+numpy
